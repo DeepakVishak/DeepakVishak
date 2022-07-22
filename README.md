@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Deepak V</h1>
-<h3 align="center">I am a passionate python developer from India..</h3>
+<h3 align="center">I am a passionate python developer 👨‍💻 from India..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakvishak&label=Profile%20views&color=0e75b6&style=flat" alt="deepakvishak" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1Q04S9c_cScS7o4yZ5X5xRi75inddzmh3/view?usp=sharing](https://drive.google.com/file/d/1Q04S9c_cScS7o4yZ5X5xRi75inddzmh3/view?usp=sharing)
 
-- ⚡ Fun fact **I think I am more social being Funny Photographer**
+- ⚡ Fun fact **I think I am more social being 🧑‍🤝‍🧑 Funny 😄 Photographer 📸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
