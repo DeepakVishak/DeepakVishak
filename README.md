@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **deepakvishak@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Q04S9c_cScS7o4yZ5X5xRi75inddzmh3/view?usp=sharing](https://drive.google.com/file/d/1Q04S9c_cScS7o4yZ5X5xRi75inddzmh3/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1wCK24eV00vDNlB_eQeNDbnx1lx_F4Wfp/view?usp=share_link](https://drive.google.com/file/d/1wCK24eV00vDNlB_eQeNDbnx1lx_F4Wfp/view?usp=share_link)
 - 🌐 Know about me [IamDeepak](https://deepakvishak.github.io/)
 
 - ⚡ Fun fact **I think I am more social being 🧑‍🤝‍🧑 Funny 😄 Photographer 📸**
